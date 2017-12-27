@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidMvpDemo.iml" filepath="$PROJECT_DIR$/AndroidMvpDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaseMvp/BaseMvp.iml" filepath="$PROJECT_DIR$/BaseMvp/BaseMvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonMavenModule/CommonMavenModule.iml" filepath="$PROJECT_DIR$/CommonMavenModule/CommonMavenModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonUtilModule/CommonUtilModule.iml" filepath="$PROJECT_DIR$/CommonUtilModule/CommonUtilModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RetrofitModule/RetrofitModule.iml" filepath="$PROJECT_DIR$/RetrofitModule/RetrofitModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
