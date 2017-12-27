@@ -1,0 +1,3 @@
+# FastDevAndroid
+搭建自己的Android快速开发框架，不断累加新框架
+1.搭建网络框架结合rxjava以及basemvp
