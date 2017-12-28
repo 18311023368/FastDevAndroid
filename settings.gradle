@@ -1,1 +1,3 @@
 include ':app', ':RetrofitModule', ':BaseMvp', ':CommonUtilModule', ':CommonMavenModule'
+apply from : './rootgradle/root.gradle'
+
